@@ -984,6 +984,11 @@
             "expression": "DIVIDE([Will be Retrenched],[Total Emp],0)",
             "formatString": "0.0%;-0.0%;0.0%",
             "lineageTag": "3df07b25-5029-4594-9940-b14ca08f837f"
+          },
+          {
+            "name": "test",
+            "expression": "\"This is a test\"",
+            "lineageTag": "f2e39b63-617c-45d3-875c-4dcf4d8480f6"
           }
         ],
         "partitions": [
